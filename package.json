@@ -1,5 +1,5 @@
 {
-  "name": "express-docs",
+  "name": "express-joi-doc",
   "version": "1.0.0",
   "description": "An automatic documentation generator for express.js APIs ",
   "main": "src/main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khalil_mansouri/express-docs.git"
+    "url": "git+https://github.com/khalil_mansouri/express-joi-doc.git"
   },
   "keywords": [
     "express",
@@ -20,9 +20,9 @@
   "author": "khalil mansouri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khalil_mansouri/express-docs/issues"
+    "url": "https://github.com/khalil_mansouri/express-joi-doc/issues"
   },
-  "homepage": "https://github.com/khalil_mansouri/express-docs#readme",
+  "homepage": "https://github.com/khalil_mansouri/express-joi-docs#readme",
   "dependencies": {
     "hasha": "^2.2.0",
     "lodash": "^4.13.1",

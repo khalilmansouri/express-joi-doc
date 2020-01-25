@@ -6,6 +6,8 @@ a [koa-docs](https://github.com/a-s-o/koa-docs) version for express
 
 ## Install
 
+[![NPM](https://nodei.co/npm/express-joi-doc.png)](https://nodei.co/npm/express-joi-doc/)
+
     > npm install --save express-docs
 
 ## License
