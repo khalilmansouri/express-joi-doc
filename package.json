@@ -1,0 +1,34 @@
+{
+  "name": "express-docs",
+  "version": "1.0.0",
+  "description": "An automatic documentation generator for express.js APIs ",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalil_mansouri/express-docs.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "documentation",
+    "joi",
+    "docs"
+  ],
+  "author": "khalil mansouri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khalil_mansouri/express-docs/issues"
+  },
+  "homepage": "https://github.com/khalil_mansouri/express-docs#readme",
+  "dependencies": {
+    "hasha": "^2.2.0",
+    "lodash": "^4.13.1",
+    "marked": "^0.3.5",
+    "mithril": "^0.2.4",
+    "mithril-node-render": "^0.5.0",
+    "strip-indent": "^2.0.0"
+  }
+}
